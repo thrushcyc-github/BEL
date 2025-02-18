@@ -1,6 +1,7 @@
 This repo contains sample codes to conduction variable selection using Bayesian empirical likelihood. 
-lib_v66 is the library that contains the actual functions. 
-Sample_code can be used as a quick example on how to run BEL variable selection. 
-BEL_lasso_cv and BEL_scad_cv run the cross-validation-version of the BEL using lasso and scad prior respectively.
+
+lib_v66.R is the library that contains the actual functions. 
+Sample_code.R can be used as a quick example on how to run BEL variable selection. 
+BEL_lasso_cv.R and BEL_scad_cv.R run the cross-validation-version of the BEL using lasso and scad prior respectively.
 
 Ref: Cheng, Y., and Zhao, Y. (2025+) Empirical Likelihood Based Bayesian Variable Selection.  
